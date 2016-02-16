@@ -16,5 +16,8 @@
 					  Website ini terdiri dari menu Home, About, Team, Contact . 
 					  Dengan keunggulan membuat rancangan roket sederhana berupa gambar,
 					  dengan deskripsi warna, nama, kecepatan dan kapasitas. 
+					  
+>User                : Anak-anak umur 6 sampai 8 tahun
 
+>>Diakses melalui    : Web browser pada laptop, komputer maupun smartphone
 		
