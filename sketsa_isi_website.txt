@@ -21,20 +21,20 @@ Roket pertama dibuat di Cina pada abad ke-13. Semenjak awal di Cina, roket digun
 -  Berisi cerita penyebaran teknologi roket 
    1.) Monkey to the space
        - tahun berapa
-	   - rocketnya apa
-	   - monyet pertama ke angkasa
+       - rocketnya apa
+       - monyet pertama ke angkasa
    2.) Dog to the space
        - tahun
-	   - biodata anjingnya
-	   - roketnya apa
-	   - misi apa
+       - biodata anjingnya
+       - roketnya apa
+       - misi apa
    3.) Yuri gagarin
        - siapa dia
-	   - orang pertama ke angkasa
-	   - roketnya apa
-	   - cerita dia di sana
+       - orang pertama ke angkasa
+       - roketnya apa
+       - cerita dia di sana
    4.) Neil armstrong to the moon
        - siapa dia 
-	   - orang pertama ke bulan
-	   - timnya siapa aja
-	   - roketnya apa
+       - orang pertama ke bulan
+       - timnya siapa aja
+       - roketnya apa
