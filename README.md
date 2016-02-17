@@ -5,21 +5,23 @@
 
 >>Tema : Edukasi
 
->>Anggota:
->>1. Albert
->>2. Dwi Prasetyono
->>3. Dwi Oktaviani
->>4. Sofi Fitriyah
+>>Anggota:<br>
+>>1. Albert<br>
+>>2. Dwi Prasetyono<br>
+>>3. Dwi Oktaviani<br>
+>>4. Sofi Fitriyah<br>
 
->>Tujuan (why?):
+>>Tujuan (why?):<br>
 >>Untuk menginformasikan semua hal tentang roket kepada pengunjung website, bermula dari sejarah perjalan pembuatan roket hingga dapat terbang ke bulan.
 
->>Bagaimana (how?):
+>>Bagaimana (how?):<br>
 >>Kita memberikan informasi dengan halaman web yang interaktif menggunakan fitur parallax
 
->>Apa (what?):
->>Kita memberikan 4 sejarah utama yaitu sejarah traditional rocket, monyet pertama yang ke luar angkasa, anjing/Yuri Gargarin, Orang pertama yang mendarat di bulan.
+>>Apa (what?):<br>
+>>Kita memberikan 4 sejarah utama yaitu sejarah traditional rocket, monyet pertama yang ke luar angkasa dan anjing pertama ke luar angkasa, Yuri Gargarin, dan Orang pertama yang berhasil mendarat di bulan.
 
->>User: Anak-anak, remaja, orang dewasa hingga orang tua.
+>>Pengguna (user):<br>
+>>Anak-anak, remaja, orang dewasa hingga orang tua.
 
->>Dapat diakses melalui: Web browser pada laptop, desktop computer maupun smartphone.
+>>Dapat diakses melalui:<br>
+Web browser pada laptop, desktop computer maupun smartphone.
