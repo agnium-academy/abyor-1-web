@@ -5,14 +5,36 @@
 -  Untuk background, dilatarbelakangi dengan gambar yang diimajinasikan oleh Albert
 
 2. Halaman ke-2
--  Berisikan pengertian roket
+-  Berisi pengertian roket
 Roket merupakan wahana luar angkasa, peluru kendali, atau kendaraan terbang yang mendapatkan dorongan melalui reaksi roket terhadap keluarnya secara cepat bahan fluida dari keluaran mesin roket.
 
 3. Halaman ke-3
--  Berisikan cerita roket pertama dibuat, untuk apa.
+-  Berisi cerita roket pertama dibuat, untuk apa.
 Roket pertama dibuat di Cina pada abad ke-13. Semenjak awal di Cina, roket digunakan sebagai mercon/kembang api yang mampu melesat ke udara hingga membentuk kembang api raksasa di angkasa. Penggunaan roket pertama tercatat dalam pertempuran oleh orang Cina di 1232 melawan Mongol.
 -  Dilatarbelakangi dengan animasi sliding background tentang roket pertama.
 -  Dilanjutkan keterangan yang melengkapi gambar, berupa: 
    1.) Berbahan dari panah api dan 'panci besi'
    2.) Dapat didengar ssmpai 5 Liga (25 km, atau 15 mil) ketika mereka meledak karena benturan
    3.) Menyebabkan kehancuran sampai radius 600 meter (2.000 kaki)
+   
+4. Halaman ke-4
+-  Berisi cerita penyebaran teknologi roket
+   1.) Monkey to the space
+       - tahun berapa
+	   - rocketnya apa
+	   - monyet pertama ke angkasa
+   2.) Dog to the space
+       - tahun
+	   - biodata anjingnya
+	   - roketnya apa
+	   - misi apa
+   3.) Yuri gagarin
+       - siapa dia
+	   - orang pertama ke angkasa
+	   - roketnya apa
+	   - cerita dia di sana
+   4.) Neil armstrong to the moon
+       - siapa dia 
+	   - orang pertama ke bulan
+	   - timnya siapa aja
+	   - roketnya apa
