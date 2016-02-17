@@ -4,4 +4,15 @@
 -  Berisi pengantar menarik tentang keingintahuan roket.
 -  Untuk background, dilatarbelakangi dengan gambar yang diimajinasikan oleh Albert
 
-2.
+2. Halaman ke-2
+-  Berisikan pengertian roket
+Roket merupakan wahana luar angkasa, peluru kendali, atau kendaraan terbang yang mendapatkan dorongan melalui reaksi roket terhadap keluarnya secara cepat bahan fluida dari keluaran mesin roket.
+
+3. Halaman ke-3
+-  Berisikan cerita roket pertama dibuat, untuk apa.
+Roket pertama dibuat di Cina pada abad ke-13. Semenjak awal di Cina, roket digunakan sebagai mercon/kembang api yang mampu melesat ke udara hingga membentuk kembang api raksasa di angkasa. Penggunaan roket pertama tercatat dalam pertempuran oleh orang Cina di 1232 melawan Mongol.
+-  Dilatarbelakangi dengan animasi sliding background tentang roket pertama.
+-  Dilanjutkan keterangan yang melengkapi gambar, berupa: 
+   1.) Berbahan dari panah api dan 'panci besi'
+   2.) Dapat didengar ssmpai 5 Liga (25 km, atau 15 mil) ketika mereka meledak karena benturan
+   3.) Menyebabkan kehancuran sampai radius 600 meter (2.000 kaki)
