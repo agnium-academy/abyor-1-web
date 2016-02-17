@@ -1,3 +1,10 @@
+h2 {
+color: white;
+font-size: 350%;
+top: 140px;
+position:absolute;
+}
+
 body{
 font-family: arial, sans-serif, verdana;
 height:5000px;
@@ -5,17 +12,42 @@ color:white;
 margin:0;
 padding:0;
 }
-p{
-font-size: 72px;
-width: 30%;
-position: absolute;
-left: 10%;
-top: 25%;
-padding: 10px 20px;
-font-weight: bold;
-font-family: Verdana;
-text-shadow: 0 1px 1px #000;
+
+ul{
+list-style:none;
 }
+
+nav{
+display:block;
+}
+
+nav li{
+float:left;
+
+}
+
+nav a{
+
+display:block;
+}
+
+a{
+text-decoration:none;
+font-weight:bold;
+color:#57caff;
+}
+
+p{
+font-size: 22px;
+width: 560px;
+position: absolute;
+left: 200px;
+top: 255px;
+background: rgba(0, 0, 0, 0.2);
+padding: 10px 20px;
+border-radius: 10px;
+}
+
 /*The loading bar*/
 .bmeter {
 position: absolute;
