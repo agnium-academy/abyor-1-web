@@ -3,6 +3,8 @@
 Nama proyek: Membuat web sederhana
 Dibuat tanggal: 16 Februari 2016
 
+Tema : Edukasi
+
 Anggota:
 
 1. Albert
