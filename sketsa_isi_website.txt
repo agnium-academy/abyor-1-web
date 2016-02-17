@@ -1,0 +1,7 @@
+# Sketsa Isi Website Yang Akan Dibangun
+
+1. Halaman Awal
+-  Berisi pengantar menarik tentang keingintahuan roket.
+-  Untuk background, dilatarbelakangi dengan gambar yang diimajinasikan oleh Albert
+
+2.
