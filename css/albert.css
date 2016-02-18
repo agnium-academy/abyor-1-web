@@ -197,8 +197,14 @@ main {
 #slide-4 h2 {
     background: none;
     padding-left: 0;
-    padding-right: 0;*/
+    padding-right: 0;
 }
+
+/* Slide 5 */
+#slide-5 .bcg {background-image:url('../img/albert/albert5.jpg')}
+#slide-5 .hsContent {
+	bottom: px;
+	top: auto;
 
 /* ==========================================================================
    Helper classes
