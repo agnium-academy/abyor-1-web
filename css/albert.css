@@ -159,9 +159,9 @@ main {
 	}
 
 /* Slide 1 */
-#slide-1 .bcg {background-image:url('../img/albert/albert.jpg')}
+#slide-1 .bcg {background-image:url('../img/albert/albert1.jpg')}
 #slide-1 .hsContent {
-	bottom: 200px;
+	bottom: px;
 	top: auto;
 }
 
@@ -178,7 +178,7 @@ main {
 }
 
 /* Slide 3 */
-#slide-3 .bcg {background-image:url('../img/laika/laikaSmile.jpg')}
+#slide-3 .bcg {background-image:url('../img/albert/albert3.jpg')}
 #slide-3 .hsContent {
 	margin-left: -239px;
 }
@@ -187,7 +187,7 @@ main {
 		background-color: rgba(0,0,0,0.6);
 	}
 
-#slide-4 .bcg {background-image:url('../img/laika/laikaStamp.jpg')}
+/*#slide-4 .bcg {background-image:url('../img/laika/laikaStamp.jpg')}
 #slide-4 .hsContent {
     margin-left: -450px;
     position: fixed;
@@ -196,7 +196,7 @@ main {
 #slide-4 h2 {
     background: none;
     padding-left: 0;
-    padding-right: 0;
+    padding-right: 0;*/
 }
 
 /* ==========================================================================
