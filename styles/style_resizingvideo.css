@@ -1,0 +1,43 @@
+.jsOn{
+	background-color: gray;
+	line-height: 1.5;
+	margin: 1.125em 0;
+}
+.content section {
+	margin: 1em 0;
+}
+.content section h1 {
+	font-size: 1.5em;
+	margin: 0 0 0.5em 0;
+}
+section .video {
+	box-sizing: border-box;
+}
+section .description {
+	box-sizing: border-box;
+	padding: 0.5em 0 0 0;
+}
+@media (min-width: 24em) {
+	section .video {
+		float: left;
+		width: 50%;
+	}
+	section .description {
+		float: right;
+		padding: 0 0 0 1em;
+		width: 50%;
+	}
+}
+@media (min-width: 36em) {
+	section .video {
+		width: 75%;
+	}
+	section .description {
+		width: 25%;
+	}
+}
+.content section:after {
+clear: both;
+content: '';
+display: table;
+}

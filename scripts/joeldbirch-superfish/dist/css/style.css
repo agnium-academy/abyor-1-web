@@ -1,0 +1,117 @@
+/* General */
+nav {
+	margin: 2em 0;
+}
+.sf-menu {
+	background: white;
+	border-radius: 7px;
+}
+.sf-menu:after {
+	clear: both;
+	content: '';
+	display: table;
+}
+/* Level 1 */
+.sf-menu li {
+	position: relative;
+	white-space: nowrap;
+}
+.sf-menu li:hover {
+	background: #a0d468;
+}
+.sf-menu a {
+	color: #444;
+	display: block;
+	padding: 1.5em 1em;
+	position: relative;
+	text-decoration: none;
+}
+.sf-menu a:hover {
+	background: #a0d468;
+	color: white;
+}
+.sf-menu > li:first-child,
+.sf-menu > li:first-child a {
+	border-top-left-radius: 7px;
+}
+.sf-menu > li {
+	float: left;
+}
+
+/* Level 2 */
+.sf-menu ul {
+	background: #a0d468;
+	border-bottom-right-radius: 7px;
+	border-bottom-left-radius: 7px;
+	display: none;
+	left: 0;
+	min-width: 12em;
+	position: absolute;
+	top: 100%;
+	z-index: 99;
+}
+.sf-menu ul li:hover {
+	background: #8cc152;
+}
+.sf-menu ul a:hover {
+	background: #8cc152;
+}
+.sf-menu li:hover > ul {
+	display: block;
+}
+.sf-menu ul > li:last-child,
+.sf-menu ul > li:last-child a {
+	border-bottom-left-radius: 7px;
+	border-bottom-right-radius: 7px;
+}
+
+/* Level 3 */
+.sf-menu ul ul {
+	background: #8cc152;
+	border-top-right-radius: 7px;
+	top: 0;
+	left: 100%;
+}
+.sf-menu ul ul li:hover {
+	background: #7bb140;
+}
+.sf-menu ul ul a:hover {
+	background: #7bb140;
+}
+.sf-menu ul ul > li:first-child,
+.sf-menu ul ul > li:first-child a {
+	border-top-right-radius: 7px;
+}
+.sf-menu ul ul > li:last-child,
+.sf-menu ul ul > li:last-child a {
+	border-bottom-right-radius: 7px;
+}
+/* Extras */
+.sf-arrows .sf-with-ul {
+	padding-right: 2.5em;
+}
+.sf-arrows .sf-with-ul:after {
+	border: 5px solid transparent;
+	border-top-color: #444;
+	content: '';
+	height: 0;
+	margin-top: -3px;
+	position: absolute;
+	right: 1em;
+	top: 50%;
+	width: 0;
+}
+.sf-arrows > li > .sf-with-ul:focus:after,
+.sf-arrows > li:hover > .sf-with-ul:after {
+	border-top-color: white;
+}
+.sf-arrows ul .sf-with-ul:after {
+	margin-top: -5px;
+	margin-right: -3px;
+	border-color: transparent;
+	border-left-color: #e7f2dc;
+}
+.sf-arrows ul li > .sf-with-ul:focus:after,
+.sf-arrows ul li:hover > .sf-with-ul:after {
+	border-left-color: white;
+}

@@ -1,0 +1,85 @@
+.jsOn{
+	background-color: gray;
+	line-height: 1.5;
+	margin: 1.125em 0;
+}
+.jsOff .cycle-slideshow .slide {
+	display: inline-block;
+	padding: 0.5em;
+}
+.slideshow-wrap {
+	position: relative;
+}
+.cycle-slideshow {
+	margin: 0 3.5em 0 3em;
+}
+.jsOff .cycle-slideshow {
+	margin: 0;
+}
+.jsOff #next,
+.jsOff #prev {
+display: none;
+}
+
+#next,
+#prev {
+	bottom: 0;
+	cursor: pointer;
+	overflow: hidden;
+	position: absolute;
+	top: 0;
+	width: 3em;
+}
+#next {
+	right: 0;
+}
+#prev {
+	left: 0;
+}
+.button-wrap {
+	background: #4fc1e9;
+	border-radius: 50%;
+	bottom: 0;
+	position: absolute;
+	top: 0;
+	/*transition: background-color 0.3s;*/
+	transition: all 0.3s;
+	width: 6em;
+}
+#next .button-wrap {
+	right: 0;
+}
+#prev .button-wrap {
+	left: 0;
+}
+
+#next .button-wrap:hover,
+#prev .button-wrap:hover {
+	background: #38afda;
+}
+
+#next .button-wrap:before,
+#prev .button-wrap:before {
+	border-style: solid;
+	content: '';
+	margin-top: -0.866em;
+	position: absolute;
+	top: 50%;
+}
+#next .button-wrap:before {
+	border-width: 0.866em 0 0.866em 1em;
+	border-color: transparent transparent transparent
+	rgba(255,255,255,0.5);
+	right: 1em;
+}
+#prev .button-wrap:before {
+	border-width: 0.866em 1em 0.866em 0;
+	border-color: transparent rgba(255,255,255,0.5) transparent transparent;
+	left: 1em;
+}
+#next .button-wrap:hover:before {
+border-left-color: rgba(255,255,255,0.8);
+}
+#prev .button-wrap:hover:before {
+border-right-color: rgba(255,255,255,0.8);
+}

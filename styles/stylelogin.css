@@ -1,0 +1,68 @@
+/* =============== LOGIN FORM ===================== */
+
+#page-header {
+	background: white;
+	color: #444;
+	border-radius: 7px;
+	overflow: hidden;
+}
+#page-header h1 {
+	background: #fc6e51;
+	color: white;
+	float: left;
+	font-size: 1.5em;
+	padding: 0.5em 0 0.5em 1em;
+	width: 35%;
+}
+#login-form {
+	float: right;
+	line-height: 2.75em;
+	padding: 0 1em 0 0;
+}
+#page-header #login-form div {
+	display: inline;
+}
+#login-form input[type='text'],
+#login-form input[type='password'] {
+	width: 8em;
+}
+#login-form input[type='submit'] {
+	background: #333;
+	border: 0 none;
+	border-radius: 7px;
+	color: white;
+	cursor: pointer;
+	padding: 0.25em 1em;
+}
+#login-form input[type='submit']:hover {
+	background: #fc6e51;
+}
+#login-link {
+	display: block;
+	float: right;
+	line-height: 2.75em;
+	padding-right: 1em;
+}
+input {
+	font-family: inherit;
+	font-size: inherit;
+}
+#cboxContent #login-form {
+	line-height: 1.25;
+	padding: 0.5em 1em;
+}
+#cboxContent #login-form div {
+	padding: 0.25em 0;
+}
+#cboxContent #login-form div:after {
+	clear: both;
+	content: '';
+	display: table;
+}
+#cboxContent input[type='text'],
+#cboxContent input[type='password'],
+#cboxContent input[type='submit'] {
+	font-size: 1.25em;
+	padding: 0.25em;
+	width: 90%;
+}

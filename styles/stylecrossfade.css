@@ -1,0 +1,12 @@
+#crossfade {
+	height: 450px;
+	overflow: hidden;
+	position: relative;
+	width: 800px;
+}
+#crossfade li {
+	height: 450px;
+	position: absolute;
+	width: 800px;
+}
+
