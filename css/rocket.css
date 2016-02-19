@@ -150,8 +150,13 @@ main {
 		margin-bottom: 12px;
 	}
 	.hsContent p {
-		width: 400px;
+		width: 600px;
 		color: #b2b2b2;
+		background-color: rgba(0,0,0,0.5);
+		padding: 4px 2px;
+		font-size: 17px;
+		line-height: 20px;
+		margin-bottom: 12px;
 		
 	}
 	.hsContent a {
