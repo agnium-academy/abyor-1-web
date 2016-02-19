@@ -15,7 +15,7 @@ Web browser pada laptop, desktop computer maupun smartphone.
 
 ### Tujuan (Why?)
 
-Untuk menginformasikan semua hal tentang roket kepada pengunjung website, bermula dari sejarah perjalan pembuatan roket hingga dapat terbang ke bulan.
+Untuk menginformasikan semua hal tentang roket kepada pengunjung website, bermula dari sejarah perjalanan pembuatan roket hingga dapat terbang ke bulan.
 
 ### Bagaimana (How?)
 
