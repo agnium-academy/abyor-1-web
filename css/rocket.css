@@ -151,7 +151,7 @@ main {
 	}
 	.hsContent p {
 		width: 600px;
-		color: #b2b2b2;
+		color: #fff8de;
 		background-color: rgba(0,0,0,0.5);
 		padding: 4px 2px;
 		font-size: 17px;
@@ -193,7 +193,7 @@ main {
 		background-color: rgba(0,0,0,0.6);
 	}
 
-#slide-4 .bcg {background-image:url('../img/tradisional/giphy.gif')}
+#slide-4 .bcg {background-image:url('../img/tradisional/luncur.gif')}
 #slide-4 .hsContent {
     margin-left: -450px;
     position: fixed;
