@@ -28,3 +28,11 @@ Kita memberikan 4 sejarah utama yaitu sejarah traditional rocket, monyet pertama
 ### Pengguna (User)
 
 Anak-anak, remaja, orang dewasa hingga orang tua.
+
+Hal yang dibutuhkan untuk menjalankan aplikasi
+Install browser google chrome atau mozilla firefox 
+
+Cara Menjalankan Aplikasi
+Clone folder abyor-1-web
+Jalankan apllikasi dengan cara klik kanan pilih open pada file index.html pada folder abyor-1-web
+Selamat Mencoba
