@@ -159,7 +159,7 @@ main {
 	}
 
 /* Slide 1 */
-#slide-1 .bcg {background-image:url('../img/albert/albertKennedy.jpg')}
+#slide-1 .bcg {background-image:url('../img/albert/albertAmerican.jpg')}
 #slide-1 .hsContent {
 	bottom: 200px;
 	top: auto;
@@ -178,7 +178,7 @@ main {
 }
 
 /* Slide 3 */
-#slide-3 .bcg {background-image:url('../img/albert/albert3.jpg')}
+#slide-3 .bcg {background-image:url('../img/albert/albert4.jpg')}
 #slide-3 .hsContent {
 	margin-left: -239px;
 }
@@ -188,14 +188,13 @@ main {
 	}
 
 /*slide 4*/
-#slide-4 .bcg {background-image:url('../img/albert/albert4.jpg')}
+#slide-4 .bcg {background-image:url('../img/albert/albert3.jpg')}
 #slide-4 .hsContent {
     margin-left: -450px;
     position: fixed;
     top: 250px;
 }
 #slide-4 h2 {
-    background: none;
     padding-left: 0;
     padding-right: 0;
 }
