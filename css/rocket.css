@@ -151,7 +151,7 @@ main {
 	}
 	.hsContent p {
 		width: 600px;
-		color: #b2b2b2;
+		color: #fff8de;
 		background-color: rgba(0,0,0,0.5);
 		padding: 4px 2px;
 		font-size: 17px;
@@ -165,7 +165,7 @@ main {
 	}
 
 /* Slide 1 */
-#slide-1 .bcg {background-image:url('../img/tradisional/1912298PEluncuran-roket-Korea-Utara780x390-400x241.jpg')}
+#slide-1 .bcg {background-image:url('../img/tradisional/Peluncuran-roket-Korea-Utara.jpg')}
 #slide-1 .hsContent {
 	bottom: 200px;
 	top: auto;
@@ -193,7 +193,7 @@ main {
 		background-color: rgba(0,0,0,0.6);
 	}
 
-#slide-4 .bcg {background-image:url('../img/tradisional/landscape-1430402069-cocket-1.gif')}
+#slide-4 .bcg {background-image:url('../img/tradisional/luncur.gif')}
 #slide-4 .hsContent {
     margin-left: -450px;
     position: fixed;
