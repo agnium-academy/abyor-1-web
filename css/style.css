@@ -90,8 +90,8 @@ position:absolute;
 
 .behind{
 width:100%;
-height:110%;
-background:url(images/back.jpg) top center no-repeat;
+height:100%;
+background:url(../img/prologue/earth-min.jpg) top center no-repeat;
 top:0%;
 left:0%;
 position:absolute;
@@ -100,17 +100,17 @@ z-index:-1;
 
 .planet1{
 width:356px;
-height:344px;
-background:url(images/bigmoon.png) no-repeat;
-left:65%;
+height:374px;
+background:url(../img/prologue/explorer-rz.png) no-repeat;
+left:70%;
 top:90%;
 }
 
 .planet2{
-background:url(images/smallmoon.png) no-repeat;
-width:204px;
-height:183px;
-left:50%;
+background:url(../img/prologue/sputnik2-rz.png) no-repeat;
+width:356px;
+height:360px;
+left:40%;
 top:70%;
 }
 /*For OXP DEMO Only*/

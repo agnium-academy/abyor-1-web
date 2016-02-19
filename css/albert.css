@@ -159,9 +159,9 @@ main {
 	}
 
 /* Slide 1 */
-#slide-1 .bcg {background-image:url('../img/albert/albert1.jpg')}
+#slide-1 .bcg {background-image:url('../img/albert/albertKennedy.jpg')}
 #slide-1 .hsContent {
-	bottom: px;
+	bottom: 200px;
 	top: auto;
 }
 
@@ -203,8 +203,9 @@ main {
 /* Slide 5 */
 #slide-5 .bcg {background-image:url('../img/albert/albert5.jpg')}
 #slide-5 .hsContent {
-	bottom: px;
-	top: auto;
+    bottom: 200px;
+    top: auto;
+}
 
 /* ==========================================================================
    Helper classes

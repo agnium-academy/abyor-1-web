@@ -159,14 +159,14 @@ main {
 	}
 
 /* Slide 1 */
-#slide-1 .bcg {background-image:url('../img/albert/albert1.jpg')}
+#slide-1 .bcg {background-image:url('../img/yurigagarin/yurigagarin1.jpg')}
 #slide-1 .hsContent {
-	bottom: px;
+	bottom: 200px;
 	top: auto;
 }
 
 /* Slide 2 */
-#slide-2 .bcg {background-image:url('../img/albert/albert2.jpg')}
+#slide-2 .bcg {background-image:url('../img/yurigagarin/yurigagarin3.jpg')}
 #slide-2 .hsContent {
 	margin-left: -450px;
 	bottom: 200px;
@@ -178,7 +178,7 @@ main {
 }
 
 /* Slide 3 */
-#slide-3 .bcg {background-image:url('../img/albert/albert3.jpg')}
+#slide-3 .bcg {background-image:url('../img/yurigagarin/yurigagarin4.jpg')}
 #slide-3 .hsContent {
 	margin-left: -239px;
 }
@@ -188,7 +188,7 @@ main {
 	}
 
 /*slide 4*/
-#slide-4 .bcg {background-image:url('../img/albert/albert4.jpg')}
+#slide-4 .bcg {background-image:url('../img/yurigagarin/yurigagarin5.jpg')}
 #slide-4 .hsContent {
     margin-left: -450px;
     position: fixed;
@@ -201,10 +201,11 @@ main {
 }
 
 /* Slide 5 */
-#slide-5 .bcg {background-image:url('../img/albert/albert5.jpg')}
+#slide-5 .bcg {background-image:url('../img/yurigagarin/yurigagarin7.jpg')}
 #slide-5 .hsContent {
-	bottom: px;
-	top: auto;
+    bottom: 200px;
+    top: auto;
+}
 
 /* ==========================================================================
    Helper classes

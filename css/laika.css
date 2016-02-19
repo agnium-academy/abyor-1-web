@@ -9,6 +9,7 @@ textarea {
 body {
     font-size: 1em;
     line-height: 1.4;
+    overflow-x:hidden;font-family:"Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif
 }
 
 /*
@@ -144,14 +145,19 @@ main {
 	.hsContent h2  {
 		color: #fff8de;
 		background-color: rgba(0,0,0,0.5);
-		padding: 10px 5px;
+		padding: 10px 5px 10px 20px;
 		font-size: 35px;
 		line-height: 38px;
 		margin-bottom: 12px;
+        color: white;
+        top: 140px;
 	}
 	.hsContent p {
-		width: 400px;
-		color: #b2b2b2;
+		font-size: 22px;
+        width: 560px;    
+        background: rgba(0, 0, 0, 0.2);    
+        border-radius: 10px;
+		color: #fff8de;
 	}
 	.hsContent a {
 		color: #b2b2b2;
@@ -159,14 +165,14 @@ main {
 	}
 
 /* Slide 1 */
-#slide-1 .bcg {background-image:url('../img/laika/laikaSoviet-min.jpg')}
+#slide-1 .bcg {background-image:url('../img/laika/laikaSmile.jpg')}
 #slide-1 .hsContent {
 	bottom: 200px;
 	top: auto;
 }
 
 /* Slide 2 */
-#slide-2 .bcg {background-image:url('../img/laika/laikaSputnik.jpg')}
+#slide-2 .bcg {background-image:url('../img/laika/laikaSoviet-min.jpg')}
 #slide-2 .hsContent {
 	margin-left: -450px;
 	bottom: 200px;
@@ -174,11 +180,11 @@ main {
 }
 #slide-2 h2{
     position: fixed;
-    top: 70%;
+    top: 50%;
 }
 
 /* Slide 3 */
-#slide-3 .bcg {background-image:url('../img/laika/laikaSmile.jpg')}
+#slide-3 .bcg {background-image:url('../img/laika/laikaSputnik.jpg')}
 #slide-3 .hsContent {
 	margin-left: -239px;
 }
@@ -194,8 +200,9 @@ main {
     top: 250px;
 }
 #slide-4 h2 {
-    background: none;
-    padding-left: 0;
+    color: #f2ead6;
+    background-color: rgba(0,0,0,0.6);
+    padding-left: 10px;
     padding-right: 0;
 }
 

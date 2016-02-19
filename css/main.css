@@ -34,3 +34,89 @@
     right: auto;
     left: 0;
 }
+
+#box {
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+}
+
+#box img {
+  position: absolute;
+  left: 0;
+  -webkit-transition: all 300ms ease-out;
+  -moz-transition: all 300ms ease-out;
+  -o-transition: all 300ms ease-out;
+  -ms-transition: all 300ms ease-out;
+  transition: all 300ms ease-out;
+}
+
+#box .overbox {
+  background-color: rgba(0,0,0,0.6);
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: #fff;
+  z-index: 100;
+  -webkit-transition: all 300ms ease-out;
+  -moz-transition: all 300ms ease-out;
+  -o-transition: all 300ms ease-out;
+  -ms-transition: all 300ms ease-out;
+  transition: all 300ms ease-out;
+  opacity: 0;
+  padding: 20px 20px;
+  height: 650px;
+  width: 300px;
+}
+
+#box:hover .overbox { opacity: 1; }
+
+#box .overtext {
+  -webkit-transition: all 300ms ease-out;
+  -moz-transition: all 300ms ease-out;
+  -o-transition: all 300ms ease-out;
+  -ms-transition: all 300ms ease-out;
+  transition: all 300ms ease-out;
+  transform: translateY(40px);
+  -webkit-transform: translateY(40px);
+}
+
+#box .title {
+  font-size: 35px;
+  padding: 5px 25px 3px 25px;
+  border: 5px solid #fff;
+  margin-top: 24px;
+  margin-left: 35px;
+  display: inline-block;
+  color: #fff;
+  text-transform: uppercase;
+  opacity: 0;
+  transition-delay: 0.1s;
+  transition-duration: 0.2s;
+}
+
+#box:hover .title,
+#box:focus .title {
+  opacity: 1;
+  transform: translateY(0px);
+  -webkit-transform: translateY(0px);
+}
+
+#box .tagline {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 14px;
+  padding: 0 60px;
+  color: #fff;
+  line-height: 21px;
+  opacity: 0;
+  transition-delay: 0.2s;
+  transition-duration: 0.2s;
+}
+
+#box:hover .tagline,
+#box:focus .tagline {
+  opacity: 1;
+  transform: translateX(0px);
+  -webkit-transform: translateX(0px);
+}
